@@ -1,0 +1,2 @@
+# 20230707_agazuma_chatgpt
+udemy我妻のchatGPT連携
